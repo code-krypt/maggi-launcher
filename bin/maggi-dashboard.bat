@@ -2,4 +2,4 @@
 cd ..
 cd ..
 cd maggi-dashboard
-ng serve --port 4401
+ng serve --port 4401 --open
