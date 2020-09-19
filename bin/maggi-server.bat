@@ -1,4 +1,4 @@
-@echo OFF
+@echo ON
 cd ..
 cd ..
 cd maggi\maggi-client
